@@ -1,0 +1,42 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin1.master.cs" Inherits="WebApplication1.Admin1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="adminstyle.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </head>
+<body>
+    <form id="form1" runat="server">
+        <div class="kutu">
+            <div class="slider">ADMİN PANELİNDESİNİZ
+                <a href="../Default.aspx"><img alt="Anasayfaya dön" class="butonGorsel"  src="../img/sil.png" style="position: absolute; right: 50px" />
+            </div>
+            
+            <div class="govde">
+                <div class="govdesol">
+                    <div class="govdesolbaslik">NAVIGATION</div>
+                    <div class="govdesolicerik" style="background-color:black">
+                        
+                        <div ><a href="../adm/slayder.aspx">Slayder</a></div>
+                        <div ><a href="../adm/makale.aspx">Makaleler</a></div>
+                        <div ><a href="../adm/room.aspx">Odalar</a></div>
+                        <div ><a href="../adm/video.aspx">Video</a></div>
+                        <div ><a href="../adm/teklifler.aspx">Teklifler</a></div>
+                        <div ><a href="../adm/rezeradm.aspx">Rezervasyonlar</a></div>
+
+                    </div>
+                </div>
+                <div class="govdesag">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+                </div>
+            </div>
+            <div class="alt"></div>
+            
+        </div>
+    </form>
+</body>
+</html>

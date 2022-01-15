@@ -1,0 +1,72 @@
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\efeet\OneDrive\Masaüstü\deneme1\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\efeet\Documents\2021 Güz Dönemi\ağ\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
